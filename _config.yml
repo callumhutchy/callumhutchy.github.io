@@ -24,7 +24,11 @@ github_username:  callumhutchy
 
 # Build settings
 markdown: kramdown
+<<<<<<< HEAD
 theme: jekyll-theme-minimal
+=======
+theme: minima
+>>>>>>> parent of 51f80d2... Set theme jekyll-theme-merlot
 plugins:
   - jekyll-feed
 
