@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The first post"
-date: 2018-02-16 20:27
+date: 2018-02-02 20:27
 categories: General
 ---
 This is my first blog post using Jekyll hosted on my Github account, I hope to document my final year project and more on this site :) 
