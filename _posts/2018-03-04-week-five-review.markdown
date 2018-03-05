@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Week Five Review"
-date: 2018--3-05 21:00
+date: 2018-03-05 21:00
 categories: Weekly Reviews
 ---
 At the beginning of this week I finished off some things that I to improve on the main menu, these were mainly scaling issues with the UI elements. I built the first version for android and the UI did not scale to the smaller screen of my device, this required some tweaking in Unity and fortunately it is just a matter of changing a setting to allow elements to scale to the screen size and not to maintain a constant pixel size. This should allow the game to look similar across many different sized displays/resolutions/aspect ratios. I can now play a basic game on my phone but the back pieces are hard if not impossible to select while these is no camera rotation.
