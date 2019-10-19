@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<body>
+    <h1>OSRS High Alch Calc</h1>
+    <script>
+        const osrs = require("osrs-wrapper");
+
+        osrs.hiscores.getPlayer("Zanneth")
+            .then(player => {
+                console.log(JSON.stringify(player, null, 2));
+            });
+    </script>
+</body>
+
+</html>
